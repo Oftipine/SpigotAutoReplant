@@ -1,3 +1,7 @@
+Download
+-------------
+https://www.spigotmc.org/resources/autoreplant-1-16-4.86098/
+
 AutoReplant -- A Spigot Plugin
 --------------
 
@@ -18,10 +22,6 @@ Credits
 CREDITS TO bsimpleman FOR CREATING THIS PLUGIN.
 
 YOU CAN CHECK OUT THE OWNER'S PAGE HERE: https://github.com/bsimpleman
-
-Download
--------------
-https://www.spigotmc.org/resources/autoreplant-1-16-4.86098/
 
 Minecraft Version
 --------------
