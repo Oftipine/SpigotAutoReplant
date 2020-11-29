@@ -26,15 +26,3 @@ Currently no configurations, if there is a configuration you would like to have 
 Permissions:
 
 AutoReplant.replant
-
-Credits
---------------
-[NOTE] THIS PLUGIN IS NOT MADE BY ME!
-
-CREDITS TO bsimpleman FOR CREATING THIS PLUGIN.
-
-YOU CAN CHECK OUT THE OWNER'S PAGE HERE: https://github.com/bsimpleman
-
-Minecraft Version
---------------
-**Compatible On Version 1.13 , 1.14 , 1.15 , 1.16**
