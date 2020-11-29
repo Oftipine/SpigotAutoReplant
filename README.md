@@ -2,6 +2,11 @@ Download
 -------------
 https://www.spigotmc.org/resources/autoreplant-1-16-4.86098/
 
+
+Minecraft Version
+--------------
+**Compatible On Version 1.13 , 1.14 , 1.15 , 1.16**
+
 AutoReplant -- A Spigot Plugin
 --------------
 
