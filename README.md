@@ -2,6 +2,13 @@ Download
 -------------
 https://www.spigotmc.org/resources/autoreplant-1-16-4.86098/
 
+Credits
+--------------
+[NOTE] THIS PLUGIN IS NOT MADE BY ME!
+
+CREDITS TO bsimpleman FOR CREATING THIS PLUGIN.
+
+YOU CAN CHECK OUT THE OWNER'S PAGE HERE: https://github.com/bsimpleman
 
 Minecraft Version
 --------------
